@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Project
+GenericName=Project App
+Comment=a new app for elementary OS
+Categories=Office;Utility;
+Exec=com.github.josue.Project
+Icon=com.github.josue.Project
+Terminal=false
+Type=Application
+Keywords=project;manager;

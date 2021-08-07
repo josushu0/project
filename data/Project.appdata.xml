@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2021 Josu\303\251 Israel Martell Castro <josue.martell17@gmail.com> -->
+<component type="desktop">
+  <id>com.github.josue.Project</id>
+  <metadata_license>CC0</metadata_license>
+  <name>Project</name>
+  <summary>A project manager for elementary OS</summary>
+  <description>
+    <p></p>
+  </description>
+</component>
